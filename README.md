@@ -1,6 +1,7 @@
 # Machine Learning API in AWS Sagemaker for Penguin Species Classification
 
 This project demonstrates how to build, train, and deploy a machine learning model on AWS SageMaker to classify penguin species using XGBoost. It includes creating an API for predictions using AWS Lambda and API Gateway, and integrates several AWS services such as S3, Lambda, and SageMaker.
+The link to the dataset used can be found here: https://www.kaggle.com/datasets/satyajeetrai/palmer-penguins-dataset-for-eda
 
 ## Steps to Build and Deploy the Model
 
